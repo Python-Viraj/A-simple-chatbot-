@@ -1,2 +1,2 @@
-# A-simple-chatbot-
-Guys this is a simple chatbot which does not require downloading any module
+A CHATBOT
+This chatbot can talk to you and does not require any module which you need to download externally....
